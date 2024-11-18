@@ -3004,7 +3004,7 @@
                             return fetch(
                               "".concat(
                                 window.A17.APP_URL,
-                                "/api/v1/ticketing/cart"
+                                "/cart.php"
                               ),
                               r
                             )
@@ -3042,7 +3042,7 @@
                           return fetch(
                             "".concat(
                               window.A17.APP_URL,
-                              "/api/v1/ticketing/cart"
+                              "/cart.php"
                             ),
                             a
                           )
@@ -3071,7 +3071,7 @@
                           return fetch(
                             "".concat(
                               window.A17.APP_URL,
-                              "/api/v1/ticketing/cart"
+                              "/cart.php"
                             ),
                             o
                           )
@@ -3095,7 +3095,7 @@
                           ""
                             .concat(
                               window.A17.APP_URL,
-                              "/api/v1/ticketing/cart/"
+                              "/cart.php/"
                             )
                             .concat(i),
                           (0, f.E)("GET", e)
@@ -3458,7 +3458,7 @@
                       });
                       return fetch(
                         ""
-                          .concat(window.A17.APP_URL, "/api/v1/ticketing/cart/")
+                          .concat(window.A17.APP_URL, "/cart.php/")
                           .concat(i, "/coupon"),
                         r
                       )
@@ -3494,7 +3494,7 @@
                     });
                     return fetch(
                       ""
-                        .concat(window.A17.APP_URL, "/api/v1/ticketing/cart/")
+                        .concat(window.A17.APP_URL, "/cart.php/")
                         .concat(i, "/coupon "),
                       r
                     )
