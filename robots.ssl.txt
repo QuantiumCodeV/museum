@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /feedback
+Disallow: /en/feedback
+Disallow: /ar/feedback
+
+Sitemap: 
+https://museumofthefuture.ae/en/sitemap.xml  
+https://museumofthefuture.ae/ar/sitemap.xml

@@ -1,0 +1,294 @@
+Workerman[/home/host/sites/al-baek-food.com/api/ws.php] start in DEBUG mode
+-------------------------------------------------- WORKERMAN ---------------------------------------------------
+Workerman version:4.1.13          PHP version:7.4.33           Event-Loop:\Workerman\Events\Select
+--------------------------------------------------- WORKERS ----------------------------------------------------
+proto   user            worker              listen                                processes    status           
+ssl     root            al-baek-food.com    websocket://al-baek-food.com:11122    1             [OK]            
+----------------------------------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[ws.php] stopping ...
+Workerman[ws.php] has been stopped
+Workerman[/home/host/sites/al-baek-food.com/api/ws.php] start in DEBUG mode
+-------------------------------------------------- WORKERMAN ---------------------------------------------------
+Workerman version:4.1.13          PHP version:7.4.33           Event-Loop:\Workerman\Events\Select
+--------------------------------------------------- WORKERS ----------------------------------------------------
+proto   user            worker              listen                                processes    status           
+ssl     root            al-baek-food.com    websocket://al-baek-food.com:11122    1             [OK]            
+----------------------------------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F09C:SSL routines:ssl3_get_record:http request 
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low 
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:142090FC:SSL routines:tls_early_post_process_client_hello:unknown protocol 
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+Workerman[ws.php] stopping ...
+Workerman[ws.php] has been stopped
+Workerman[/home/host/sites/al-baek-food.com/api/ws.php] start in DEBUG mode
+-------------------------------------------------- WORKERMAN ---------------------------------------------------
+Workerman version:4.1.13          PHP version:7.4.33           Event-Loop:\Workerman\Events\Select
+--------------------------------------------------- WORKERS ----------------------------------------------------
+proto   user            worker              listen                                processes    status           
+ssl     root            al-baek-food.com    websocket://al-baek-food.com:11122    1             [OK]            
+----------------------------------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+Workerman[ws.php] stopping ...
+Workerman[ws.php] has been stopped
+Workerman[/home/host/sites/al-baek-food.com/api/ws.php] start in DEBUG mode
+-------------------------------------------------- WORKERMAN ---------------------------------------------------
+Workerman version:4.1.13          PHP version:7.4.33           Event-Loop:\Workerman\Events\Select
+--------------------------------------------------- WORKERS ----------------------------------------------------
+proto   user            worker              listen                                processes    status           
+ssl     root            al-baek-food.com    websocket://al-baek-food.com:11122    1             [OK]            
+----------------------------------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number 
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 30
+
+Notice: Trying to access array offset on value of type null in /home/host/sites/al-baek-food.com/api/ws.php on line 33
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL_R_NO_SHARED_CIPHER: no suitable shared cipher could be used.  This could be because the server is missing an SSL certificate (local_cert context option) 
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol 
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL_R_NO_SHARED_CIPHER: no suitable shared cipher could be used.  This could be because the server is missing an SSL certificate (local_cert context option) 
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:141CF06C:SSL routines:tls_parse_ctos_key_share:bad key share 
+Workerman[/home/host/sites/al-baek-food.com/api/ws.php] start in DEBUG mode
+-------------------------------------------------- WORKERMAN ---------------------------------------------------
+Workerman version:4.1.13          PHP version:7.4.33           Event-Loop:\Workerman\Events\Select
+--------------------------------------------------- WORKERS ----------------------------------------------------
+proto   user            worker              listen                                processes    status           
+ssl     root            al-baek-food.com    websocket://al-baek-food.com:11122    1             [OK]            
+----------------------------------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL_R_NO_SHARED_CIPHER: no suitable shared cipher could be used.  This could be because the server is missing an SSL certificate (local_cert context option) 
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol 
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL: Success 
+SSL handshake error: stream_socket_enable_crypto(): SSL_R_NO_SHARED_CIPHER: no suitable shared cipher could be used.  This could be because the server is missing an SSL certificate (local_cert context option) 
+SSL handshake error: stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:141CF06C:SSL routines:tls_parse_ctos_key_share:bad key share 
+Workerman[ws.php] stopping ...
+Workerman[ws.php] has been stopped
+Workerman[/home/host/sites/al-baek-food.com/api/ws.php] start in DEBUG mode
+-------------------------------------------------- WORKERMAN ---------------------------------------------------
+Workerman version:4.1.13          PHP version:7.4.33           Event-Loop:\Workerman\Events\Select
+--------------------------------------------------- WORKERS ----------------------------------------------------
+proto   user            worker              listen                                processes    status           
+ssl     root            al-baek-food.com    websocket://al-baek-food.com:11122    1             [OK]            
+----------------------------------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
