@@ -3,13 +3,16 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-
 $adult_uuid = '';
 $performance_id = '';
-echo json_encode($_POST);
-if (isset($_POST['adult_uuid']) && isset($_POST['performance_id'])) {
-    $adult_uuid = $_POST['adult_uuid'];
-    $performance_id = $_POST['performance_id'];
+
+// Получаем данные из POST
+$data = json_decode(file_get_contents('php://input'), true);
+echo json_encode($data);
+
+if (isset($data['adult_uuid']) && isset($data['performance_id'])) {
+    $adult_uuid = $data['adult_uuid'];
+    $performance_id = $data['performance_id'];
 
     $performance = array(
         'performance_id' =>  $performance_id,
