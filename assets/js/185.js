@@ -5944,7 +5944,7 @@
       "use strict";
       n.d(e, { A: () => i });
       const i =
-        "/images/vendor/intl-tel-input/build/flags@2x.png?9d5328fb490cddd43f6698012123404b";
+        "/images/flags.png";
     },
     436: (t) => {
       var e;
