@@ -1,5 +1,9 @@
 <?php
 
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
+
 $adult_uuid = '';
 $performance_id = '';
 echo json_encode($_POST);
