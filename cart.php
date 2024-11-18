@@ -1,6 +1,6 @@
 <?php
 
-return [
+echo [
     'success' => true,
     'error' => false, 
     'status_code' => 200,
