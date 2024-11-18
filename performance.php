@@ -2,6 +2,7 @@
 
 $adult_uuid = '';
 $performance_id = '';
+echo json_encode($_POST);
 if (isset($_POST['adult_uuid']) && isset($_POST['performance_id'])) {
     $adult_uuid = $_POST['adult_uuid'];
     $performance_id = $_POST['performance_id'];
