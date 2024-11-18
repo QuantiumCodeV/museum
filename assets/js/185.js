@@ -3527,8 +3527,7 @@
                   n = t.commit;
                 return fetch(
                   ""
-                    .concat(window.A17.APP_URL, "/api/v1/ticketing/account/")
-                    .concat(e.about.userBooking.email, "/hasPendingPayments"),
+                    .concat(window.A17.APP_URL, "/hasPendingPayments?email="+e.about.userBooking.email),
                   (0, f.E)("GET", e)
                 )
                   .then(function (t) {
