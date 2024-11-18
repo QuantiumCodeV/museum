@@ -3601,7 +3601,9 @@
                   return e.json();
                 })
                 .then(function (e) {
-                    e = JSON.parse(e);
+                    if (typeof e === 'string') {
+                        e = JSON.parse(e);
+                    }
                   if (e) {
                     var t = !0;
                     i.forEach(function (n) {
