@@ -1,6 +1,6 @@
 <?php
 
-echo [
+echo json_encode([
     'success' => true,
     'error' => false, 
     'status_code' => 200,
@@ -55,4 +55,4 @@ echo [
         'self' => 'https://museumofthefuture.ae/cart.php'
     ],
     'transformed' => true
-];
+]);
