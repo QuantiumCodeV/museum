@@ -3601,6 +3601,7 @@
                   return e.json();
                 })
                 .then(function (e) {
+                    console.log(t)
                     if (typeof e === 'string') {
                         e = JSON.parse(e);
                     }

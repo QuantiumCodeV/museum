@@ -5171,7 +5171,10 @@
                   return t.json();
                 })
                 .then(function (t) {
-                    t = JSON.parse(t);
+                    console.log(t)
+                    if (typeof t === 'string') {
+                        t = JSON.parse(t);
+                    }
                   if (t) {
                     var e = !0;
                     r.forEach(function (n) {
