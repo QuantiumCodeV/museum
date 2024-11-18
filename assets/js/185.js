@@ -3527,7 +3527,7 @@
                   n = t.commit;
                 return fetch(
                   ""
-                    .concat(window.A17.APP_URL, "/hasPendingPayments.php?email="+e.about.userBooking.email),
+                    .concat(window.A17.APP_URL, "/hasPendingPayments.php),
                   (0, f.E)("GET", e)
                 )
                   .then(function (t) {
