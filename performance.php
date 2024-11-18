@@ -8,7 +8,7 @@ if(isset($_POST['adult_uuid'])){
 }
 
 $performance = array(
-    'performance_id' =>  $performance_id , 
+    'performance_id' =>  $performance_id, 
     'products' => array(
         array(
             'name' => 'Entry Ticket',
