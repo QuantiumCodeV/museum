@@ -20,5 +20,5 @@ $performance = array(
     )
 );
 
-return json_encode($performance);
+echo json_encode($performance);
 ?>
