@@ -8,7 +8,7 @@ $performance_id = '';
 
 // Получаем данные из POST
 $data = json_decode(file_get_contents('php://input'), true);
-echo json_encode($data);
+
 
 if (isset($data['adult_uuid']) && isset($data['performance_id'])) {
     $adult_uuid = $data['adult_uuid'];
