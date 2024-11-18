@@ -3,10 +3,11 @@
 $adult_uuid = '';
 if(isset($_POST['adult_uuid'])){
     $adult_uuid = $_POST['adult_uuid'];
+    $performance_id = $_POST['performance_id'];
 }
 
 $performance = array(
-    'performance_id' => '3714F60C-06FD-5B5F-692F-018E3C7C996D', 
+    'performance_id' =>  $performance_id , 
     'products' => array(
         array(
             'name' => 'Entry Ticket',

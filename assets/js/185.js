@@ -5161,11 +5161,10 @@
                     null !== (a = r[1]) && void 0 !== a && a.uuid
                       ? r[1].uuid
                       : null,
-                      performance_id: o
+                  performance_id: o,
                 };
               return fetch(
-                ""
-                  .concat(window.A17.APP_URL, "/performance.php"),
+                "".concat(window.A17.APP_URL, "/performance.php"),
                 (0, O.E)("POST", n, { body: JSON.stringify(s) })
               )
                 .then(function (t) {
